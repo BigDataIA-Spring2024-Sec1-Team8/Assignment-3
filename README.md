@@ -31,6 +31,11 @@ To summarize, we initiated the project by setting up accounts on Snowflake and d
 
 ![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment-3/assets/114782541/949b9ce0-24a7-4733-be9a-0b40b99ed5fd)
 
+**For Part 2:**
+
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment-3/assets/114782541/ad32908e-23a8-4ecf-905b-9521df494c49)
+
+
 ## Contributions
 - Sai Durga Mahesh Bandaru - 33.3%
 - Sri Poojitha Mandali - 33.3%
