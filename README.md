@@ -7,9 +7,9 @@ This project bridges the foundational aspects of data schema design and the adva
 
 ## Project Resources
 - Google Codelab - https://codelabs-preview.appspot.com/?file_id=1VZa2oD8pQvpc_y3ThVcDGuVyKk5gXutSJlcjZf9seag#0
-- URL Jupyter Notebook - https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment2/tree/main/part1
-- MetaData Jupyter Notebook - https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment2/blob/main/part2/pypdf_extract.py
-- XMLContent Jupyter Notebook  - https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment2/blob/main/part2/grobid_client_extraction/pdf_to_xml.py
+- URL Jupyter Notebook - https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment-3/blob/main/part1/urlclass/URLDataUploader.ipynb
+- MetaData Jupyter Notebook - https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment-3/blob/main/part1/pdfclass/MetaDataLoader.ipynb
+- XMLContent Jupyter Notebook  - https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment-3/blob/main/part1/pdfclass/XMLContentLoader.ipynb
 
 ## Tech Stack
 SQLAlchemy | Snowflake | Pydantic | Pytest
