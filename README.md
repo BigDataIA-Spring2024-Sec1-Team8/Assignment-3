@@ -12,13 +12,19 @@ This project bridges the foundational aspects of data schema design and the adva
 - XMLContent Jupyter Notebook  - https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment-3/blob/main/part1/pdfclass/XMLContentLoader.ipynb
 
 ## Tech Stack
-SQLAlchemy | Snowflake | Pydantic | Pytest
+SQLAlchemy | Snowflake | Pydantic | Pytest | DBT
 
 ## Architecture Diagram
 
 ![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment-3/assets/114782541/4b32e6a1-76e6-45a9-b8b0-6c61c9b48681)
 
 The architectural diagram illustrates a data processing pipeline where a CSV file is read and its contents are extracted as metadata and content from XML files. These contents are then transformed and validated in Python using ORM and Pydantic before being tested with Pytest. Finally, the data is stored in Snowflake via SQLAlchemy, completing the workflow from data extraction to storage.
+
+**Part2 - In DBT:**
+
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment-3/assets/114782541/b311d2b8-7454-4615-9b88-910ae105fcbc)
+
+To summarize, we initiated the project by setting up accounts on Snowflake and dbt Cloud. In Snowflake, we prepared a new Worksheet and imported sample data into a newly created database. We then integrated dbt Cloud with Snowflake, allowing us to use dbt for efficient data transformation, where we converted tested SQL queries into reusable models. We ensured data integrity through dbt's testing features and automated the transformation process by scheduling regular dbt jobs.
 
 ## Repository Structure
 **For Part 1:**
