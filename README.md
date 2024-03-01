@@ -3,7 +3,7 @@
 ## Project Description
 This project bridges the foundational aspects of data schema design and the advanced methodologies of data transformation and analysis and is structured into two primary components. The Part1 will focus on creating Python classes to accurately represent and validate the structure of web pages and PDF documents, emphasizing data integrity and adherence to predefined standards. This step ensures the preparation of "clean" data, crucial for any analytical tasks that follow. The Part 2 will focus on leveraging DBT (Data Build Tool) and Snowflake for data transformation, which is to manage and execute data workflows efficiently. By creating a summary table that encapsulates key data metrics, we analyze and derive meaningful insights from the data. 
 
-**Link to Repository of Part 2** : 
+**Link to Repository of Part 2** : https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment3-partb
 
 ## Project Resources
 - Google Codelab - https://codelabs-preview.appspot.com/?file_id=1VZa2oD8pQvpc_y3ThVcDGuVyKk5gXutSJlcjZf9seag#0
