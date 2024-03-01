@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+pydantic
+snowflake-sqlalchemy
+pytest
+lxml
+python-dotenv
